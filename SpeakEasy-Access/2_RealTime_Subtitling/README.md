@@ -1,3 +1,17 @@
-# Project 2: Real-Time Subtitling for Live Events
+# Real-Time Subtitling for Live Events
 
-This project captures live audio, splits it into chunks, and generates synchronized subtitles in real time using speech recognition.
+This project captures audio during live events and generates real-time subtitles, enhancing accessibility and clarity for audiences.
+
+## Features
+- Captures microphone input during events
+- Provides live text transcription
+
+## Technologies Used
+- `speech_recognition`
+- `pydub`
+- `os`
+
+---
+**Author:** RAJPRATHAP R  
+**Institution:** Arasu Engineering College  
+**Email:** rajprathap1972002@gmail.com
